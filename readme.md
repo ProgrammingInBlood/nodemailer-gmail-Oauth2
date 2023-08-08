@@ -33,3 +33,6 @@ Start the server
   node server.js
 ```
 
+## Demo Video For How to Genrate Keys
+[<img src="https://i.ytimg.com/vi/k-6KFSnaFTU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=k-6KFSnaFTU "Nodemailer | Send Email using Gmail with OAuth | Node.js")
+
